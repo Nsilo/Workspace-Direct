@@ -33,9 +33,9 @@ npm install
 npm start
 ```
 
-## Screenshots
+## Live Demo
 
-![Screenshot](/src/components/images/Screen.png)
+[Demo](https://drive.google.com/file/d/1dXnrnCqGmocpRgnV1WI84wKU_OCdCR0v/view?usp=sharing)
 
 ## Contributors
 
