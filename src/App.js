@@ -1,6 +1,6 @@
 import React from "react";
 import Nav from "./components/Nav/Nav";
-import Search from "./components/Search/Search";
+// import Search from "./components/Search/Search";
 import Table from "./components/Table/Table";
 import "./App.css";
 
