@@ -16,7 +16,7 @@ const Nav = () => {
         sticky="top"
       >
         <Navbar.Brand style={nav}>
-          <h1>Employee Directory</h1>
+          <h1>WorkSpace Direct</h1>
         </Navbar.Brand>
       </Navbar>
     </>
