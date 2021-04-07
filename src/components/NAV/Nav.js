@@ -9,9 +9,9 @@ const Nav = () => {
   return (
     <>
       <Navbar
-        className="justify-content-center"
+        className="justify-content-left"
         bg="dark"
-        variant="dark"
+        variant="light"
         expand="lg"
         sticky="top"
       >
